@@ -6,6 +6,6 @@
 - 🚙 I’m currently working as a frontend intern at Greenmobility 🚙
 - 🌱 I’m currently learning TypeScript 🌱
 - 📚 I like reading manga in my spare time 📚
--  :speaker:  First time speaker :speaker:
+- :loudspeaker:  First time speaker :loudspeaker:
 - ✈️ Places I want to visit are Japan :mount_fuji: and Qatar :camel:
 - ⚡ Fun fact: I can beat you in a race :runner:
