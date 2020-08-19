@@ -8,5 +8,4 @@
 - 📚 I like reading manga in my spare time 📚
 -  :speaker:  First time speaker :speaker:
 - ✈️ Places I want to visit are Japan :mount_fuji: and Qatar :camel:
-- ⚡ Fun fact: I can jump quite far :runner:
--->
+- ⚡ Fun fact: I can beat you in a race :runner:
