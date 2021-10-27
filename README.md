@@ -4,7 +4,7 @@
 
 
 - I'm a front end developer working on various passion projects
-- 🌱 I’m learning TypeScript at the moment🌱
+- 🌱 I’m learning python at the moment🌱
 - 📚 I like reading manga in my spare time 📚
 - :loudspeaker:  First time speaker :loudspeaker:
 - ✈️ Places I want to visit are Japan :mount_fuji: and Qatar :camel:
