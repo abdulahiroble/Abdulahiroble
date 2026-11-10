@@ -9,3 +9,21 @@
 - :loudspeaker:  First time speaker :loudspeaker:
 - ✈️ Places I want to visit are China 🇨🇳 and Qatar 🇶🇦
 - ⚡ Fun fact: I can beat you in a race :runner:
+
+## Websites and tools
+
+- [Strømafbrydelse](https://xn--strmafbrydelse-sqb.dk/)
+- [Genbrugsfinder](https://genbrugsfinder.dk/)
+- [Guldpris per gram](https://guldprispergram.se/)
+- [Tilbudsoverblik](https://tilbudsoverblik.dk/)
+- [Strømpriser i dag](https://xn--strmpriseridag-sqb.dk/)
+- [Bensinstation nära mig](https://bensinstationnaramig.se/)
+- [Kan jeg få fibernet](https://xn--kanjegffibernet-nlb.dk/)
+- [Transskribering af lydfil](https://transskriberingaflydfil.dk/)
+- [Guldpriser graf](https://guldprisergraf.dk/)
+- [Public Toilet](https://publictoilet.dk/)
+- [Billede til tekst](https://billedetiltekst.dk/)
+- [Rentwaypoint](https://rentwaypoint.dk/)
+- [Beregning af moms](https://beregningafmoms.dk/)
+- [Transkribera ljudfiler](https://transkriberaljudfiler.se/)
+- [PDF til Word](https://pdftilword.dk/)
